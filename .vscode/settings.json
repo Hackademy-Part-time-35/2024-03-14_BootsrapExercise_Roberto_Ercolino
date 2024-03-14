@@ -1,0 +1,9 @@
+{
+    "workbench.statusBar.visible": true,
+    "editor.wordWrap": "on",  
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#0A227D",
+        "titleBar.activeBackground": "#0E2FB0",
+        "titleBar.activeForeground": "#FCFDFF"
+    }
+}
